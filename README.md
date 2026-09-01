@@ -1,4 +1,4 @@
-# Oscilações Acústicas de Bárions: Código dos Resultados
+# Oscilações Acústicas de Bárions: Códigos dos Resultados
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22217922.svg)](https://doi.org/10.5281/zenodo.22217922)
 
@@ -20,7 +20,7 @@ ajuste de Eisenstein & Hu (1998).
 |---|---|---|
 | `Resultado 01-SHOA.ipynb` | Resultado 1 | Solução Homogênea do Oscilador Acústico, sem forçante nem amortecimento, para três números de onda representativos. |
 | `Resultado 02-OFAP.ipynb` | Resultado 2 | Oscilador Forçado e Assimetria dos Picos: potencial gravitacional constante e assimetria entre picos pares e ímpares em função da razão bárion-fóton $R$. |
-| `Resultado 03-ASAOR.ipynb` | Resultado 3a | Amortecimento Silk, Amplitude das Oscilações na Recombinação, escala linear. Calcula $r_{s}(\eta_*)$ $(\eta_*)$ e $k_D(\eta_*)$ por integração numérica completa. |
+| `Resultado 03-ASAOR.ipynb` | Resultado 3a | Amortecimento Silk, Amplitude das Oscilações na Recombinação, escala linear. Calcula $r_{s}(\eta_\star)$ e $k_D(\eta_*)$ por integração numérica completa. |
 | `Resultado 04-ASSE(Escala Log).ipynb` | Resultado 3b | Amortecimento Silk, Supressão Exponencial, em escala log-log, evidenciando a estrutura completa de nós e picos. |
 | `Resultado05-VOSBDCM.ipynb` | Resultado 4 | Velocity Overshoot e Sinal BAO na Distribuição de Matéria: defasagem de $\pi/2$ entre o sinal da RCF ($\cos kr_s$) e o sinal BAO na velocidade bariônica ($\sin kr_s$). |
 | `Resultado06-FTT(k)(Escala Log-Log).ipynb` | Resultado 5 | Função de Transferência $T(k)$ completa (Eisenstein & Hu, 1998), em escala log-log, isolando as OABs da envoltória suave. |
@@ -71,7 +71,7 @@ Se este código for útil para seu trabalho, ou caso deseje referenciá-lo,
 utilize a citação abaixo:
 
 ```
-SOUZA, Johnatans Neves. Código dos Resultados: Ondas Sonoras
+SOUZA, Johnatans Neves. Códigos dos Resultados: Ondas Sonoras
 Congeladas no Tempo: A RCF Como Régua Cósmica. Zenodo, 2026.
 DOI: 10.5281/zenodo.22217922.
 Disponível em: <https://doi.org/10.5281/zenodo.22217922>.
