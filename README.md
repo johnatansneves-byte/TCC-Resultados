@@ -27,9 +27,9 @@ ajuste de Eisenstein & Hu (1998).
 | `Resultado07-EPLMDR.ipynb` | Resultado 7 | Espectro de Potências Linear da Matéria em Diferentes Redshifts, com normalização derivada da equação de Poisson e evolução via fator de crescimento $D_+(z)$. |
 
 > Nota: a numeração dos arquivos (01 a 07) segue a ordem sequencial do
-> repositório; a numeração "Resultado no TCC" (1, 2, 3a, 3b, 4, 5, 6)
+> repositório; a numeração "Resultado no TCC" (1, 2, 3, 4, 5, 6, 7)
 > segue a numeração usada no texto do TCC, onde o amortecimento de
-> Silk é apresentado em duas subseções (3a e 3b) a partir da mesma
+> Silk é apresentado em duas subseções (4 e 5) a partir da mesma
 > base numérica.
 
 ## Parâmetros cosmológicos
