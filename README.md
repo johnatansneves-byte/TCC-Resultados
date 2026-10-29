@@ -3,8 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22217922.svg)](https://doi.org/10.5281/zenodo.22217922)
 
 Este repositório contém os notebooks Python que geram os resultados
-numéricos apresentados no Trabalho de Conclusão de Curso **"Ondas
-Sonoras Congeladas no Tempo: A RCF Como Régua Cósmica"**, de
+numéricos apresentados no Trabalho de Conclusão de Curso **"Métodos Perturbativos em Oscilações acústicas de Bárions"**, de
 Johnatans Neves Souza (2026), sobre a física das Oscilações Acústicas
 de Bárions (OABs) e o uso da radiação cósmica de fundo (RCF) como
 régua padrão cosmológica.
